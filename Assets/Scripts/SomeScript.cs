@@ -22,5 +22,6 @@ public class SomeScript : MonoBehaviour
         Debug.Log("Some logging data B");
         Debug.Log("Some logging data B");
         Debug.Log("Some logging data B");
+        Debug.Log("Some logging data B");
     }
 }
