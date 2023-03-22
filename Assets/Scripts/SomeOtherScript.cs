@@ -6,6 +6,6 @@ public class SomeOtherScript : MonoBehaviour
 {
     void Awake()
     {
-        
+        Debug.LogWarning("Here");
     }
 }
