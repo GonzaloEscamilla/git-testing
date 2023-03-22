@@ -8,5 +8,6 @@ public class SomeOtherScript : MonoBehaviour
     {
         Debug.Log("Some loggin data");
         Debug.Log("Some loggin data");
+        Debug.Log("Some loggin data");
     }
 }
